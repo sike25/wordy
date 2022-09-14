@@ -1,4 +1,4 @@
-# Android Project 1 - *Worldy*
+# Android Project 1 - *Wordy*
 
 @author **Sike Ogieva**
 
@@ -29,6 +29,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 https://user-images.githubusercontent.com/97693483/190041789-879d3d6b-eff9-4fc3-88c9-dcefead2977f.mp4
+
 Video created with ...  VRecorder
 
 ## Notes
