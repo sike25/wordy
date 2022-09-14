@@ -2,9 +2,9 @@
 
 @author **Sike Ogieva**
 
-**Worldly** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
+**Wordy** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -24,22 +24,12 @@ The following **optional** features are implemented:
 - [ ] User can toggle betweeen different word lists
 - [ ] User can see a 'streak' record of how many words they've guessed correctly.
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+https://user-images.githubusercontent.com/97693483/190041789-879d3d6b-eff9-4fc3-88c9-dcefead2977f.mp4
+Video created with ...  VRecorder
 
 ## Notes
 
