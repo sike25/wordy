@@ -1,0 +1,13 @@
+android:screenOrientation="portrait"
+https://stackoverflow.com/questions/6745797/how-to-set-entire-application-in-portrait-mode-only
+https://stackoverflow.com/questions/4207880/android-how-do-i-prevent-the-soft-keyboard-from-pushing-my-view-up
+
+KOTLIN TIP:
+val are values that we can't change, like textview.
+var are variables that we expect to update, like counter
+(In Java, we assume everything is a variable,
+and use the keyword final to specify if something is a value.)
+
+https://kotlinlang.org/docs/basic-syntax.html
+
+Spannables
