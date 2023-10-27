@@ -39,7 +39,7 @@ Eventually had to change the implementation to avoid the issue.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Osasikemwen Ann Ogieva
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
