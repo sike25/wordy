@@ -1,6 +1,6 @@
 # Android Project 1 - Wordy
 
-@author **Sike Ogieva**
+@author **sike25**
 
 **Wordy** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
